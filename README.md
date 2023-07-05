@@ -1,17 +1,29 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project, is to utilize the data we get from Yelp, Foursquare and Citybikes Api [ POI, Location, Rating, Price, bike station] for Toronto city to see if there is any correlation between them, and build a regression model
+
 
 ## Process
-### (your step 1)
-### (your step 2)
+- Use API to load the data from Foursquer, Yelp and Citybikes in JSON format 
+- Extract the required information and store it in panada DataFrame.
+- Convert the categorical variabels to numeric variables.
+- Apply numeric value distribution test.
+- Apply independence test.
+- Expolor the data using matplot and seaborn libraries visualization to see if there is any correlation or pattern.
+- Here is the projcet flow structure ![alt text]()
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+- Yelp API provides usfeul information like price and rating but it's limited to 500 calls per day.
+- On the other hand Foursquare has less information but gives you $200 credit every month.
+- I tried to see if there is any correlation between location, category of food, rating and price.
+- Based on the R Squared result, seems like there is no correlation between the mentioned features.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+- No enough information in Foursquare
+- POI was not categorized properly.
+- Yelp API limited to 500 calls per day
+
 
 ## Future Goals
-(what would you do if you had more time?)
+I will try another classification model like KNN.
