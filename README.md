@@ -11,7 +11,7 @@ The goal of this project, is to utilize the data we get from Yelp, Foursquare an
 - Apply numeric value distribution test.
 - Apply independence test.
 - Expolor the data using matplot and seaborn libraries visualization to see if there is any correlation or pattern.
-- Here is the projcet flow structure ![alt text]()
+- ![alt text](https://github.com/withabubaker/Stat_Modelling_Python/blob/main/images/image.png) is the projcet flow structure 
 
 ## Results
 - Yelp API provides usfeul information like price and rating but it's limited to 500 calls per day.
