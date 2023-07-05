@@ -1,0 +1,1595 @@
+,free_bikes,postCode,rating,category,price,street,price_c,category_c,street_c,postCode_c
+32,29,M5V4A6,3.5,FastFood,Moderately, Fort York Blvd,2,7,16,27
+38,29,M5V4A6,4.5,Cafe,Moderately, Fort York Boulevard,2,4,17,27
+43,29,M5V4A6,3.5,FastFood,Moderately, Fort York Blvd,2,7,16,27
+49,29,M5V4A6,4.5,Cafe,Moderately, Fort York Boulevard,2,4,17,27
+54,29,M5V4A6,3.5,FastFood,Moderately, Fort York Blvd,2,7,16,27
+60,29,M5V4A6,4.5,Cafe,Moderately, Fort York Boulevard,2,4,17,27
+65,29,M5V4A6,3.5,FastFood,Moderately, Fort York Blvd,2,7,16,27
+71,29,M5V4A6,4.5,Cafe,Moderately, Fort York Boulevard,2,4,17,27
+252,2,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+280,2,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+308,2,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+644,4,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+672,4,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+700,4,M5S1W7,4.0,Fancy,Expensive, Bloor Street W,0,6,4,23
+1036,0,M5B2A2,4.0,Asian,Moderately, Church Street,2,2,6,19
+1037,0,M5B2A2,4.0,Asian,Moderately, Church Street,2,2,6,19
+1102,0,M5B2A2,4.0,Asian,Moderately, Church Street,2,2,6,19
+1103,0,M5B2A2,4.0,Asian,Moderately, Church Street,2,2,6,19
+1572,4,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1575,4,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1595,4,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1598,4,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1618,4,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1621,4,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1710,3,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1713,3,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1733,3,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1736,3,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1756,3,M6H1N7,4.5,Europe,Moderately, Bloor Street W,2,5,4,31
+1759,3,M6H1N7,4.0,MiddleEast,Inexpensive, Bloor St W,1,8,3,31
+1862,4,M5V1E3,4.0,Europe,Expensive, Wellington Street W,0,5,34,26
+1863,4,M5V1E3,4.5,American,Moderately,A Wellington Street W,2,1,37,26
+1901,4,M5V1E3,4.0,Europe,Expensive, Wellington Street W,0,5,34,26
+1902,4,M5V1E3,4.5,American,Moderately,A Wellington Street W,2,1,37,26
+1940,4,M5V1E3,4.0,Europe,Expensive, Wellington Street W,0,5,34,26
+1941,4,M5V1E3,4.5,American,Moderately,A Wellington Street W,2,1,37,26
+2252,4,M5V1E3,4.0,Europe,Expensive, Wellington Street W,0,5,34,26
+2253,4,M5V1E3,4.5,American,Moderately,A Wellington Street W,2,1,37,26
+2393,21,M6J1H9,4.0,FastFood,Expensive, Queen Street W,0,7,26,33
+2394,21,M6J1H9,4.0,FastFood,Moderately, Queen Street W,2,7,26,33
+2408,21,M6J1H9,4.0,FastFood,Expensive, Queen Street W,0,7,26,33
+2409,21,M6J1H9,4.0,FastFood,Moderately, Queen Street W,2,7,26,33
+2423,21,M6J1H9,4.0,FastFood,Expensive, Queen Street W,0,7,26,33
+2424,21,M6J1H9,4.0,FastFood,Moderately, Queen Street W,2,7,26,33
+2438,21,M6J1H9,4.0,FastFood,Expensive, Queen Street W,0,7,26,33
+2439,21,M6J1H9,4.0,FastFood,Moderately, Queen Street W,2,7,26,33
+2468,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+2469,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+2470,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+2471,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+2472,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+2473,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+2474,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+2475,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+2476,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+2477,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+2478,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+2508,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+2605,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+2606,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+2607,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+2608,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+2609,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+2610,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+2611,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+2612,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+2613,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+2614,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+2615,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+2645,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+2742,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+2743,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+2744,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+2745,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+2746,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+2747,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+2748,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+2749,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+2750,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+2751,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+2752,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+2782,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+2879,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+2880,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+2881,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+2882,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+2883,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+2884,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+2885,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+2886,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+2887,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+2888,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+2889,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+2919,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3016,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3017,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3018,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3019,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3020,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3021,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3022,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3023,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3024,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3025,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3026,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3056,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3153,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3154,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3155,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3156,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3157,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3158,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3159,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3160,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3161,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3162,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3163,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3193,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3290,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3291,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3292,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3293,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3294,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3295,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3296,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3297,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3298,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3299,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3300,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3330,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3427,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3428,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3429,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3430,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3431,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3432,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3433,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3434,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3435,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3436,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3437,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3467,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3564,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3565,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3566,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3567,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3568,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3569,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3570,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3571,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3572,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3573,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3574,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3604,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3701,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3702,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3703,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3704,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3705,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3706,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3707,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3708,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3709,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3710,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3711,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3741,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+3838,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+3839,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+3840,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+3841,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+3842,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+3843,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+3844,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+3845,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+3846,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+3847,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+3848,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+3878,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+4112,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+4113,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+4114,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+4115,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+4116,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+4117,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+4118,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+4119,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+4120,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+4121,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+4122,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+4152,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+4797,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+4798,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+4799,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+4800,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+4801,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+4802,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+4803,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+4804,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+4805,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+4806,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+4807,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+4837,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+4934,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+4935,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+4936,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+4937,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+4938,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+4939,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+4940,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+4941,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+4942,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+4943,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+4944,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+4974,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+6304,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+6305,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+6306,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+6307,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+6308,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+6309,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+6310,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+6311,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+6312,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+6313,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+6314,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+6344,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+6852,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+6853,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+6854,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+6855,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+6856,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+6857,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+6858,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+6859,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+6860,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+6861,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+6862,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+6892,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+10003,9,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+10004,9,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+10005,9,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+10006,9,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+10007,9,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+10008,9,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+10009,9,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+10010,9,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+10011,9,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+10012,9,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+10013,9,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+10043,9,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11236,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11237,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11238,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11239,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11240,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11241,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11242,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11243,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11244,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11245,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11246,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11276,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11373,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11374,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11375,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11376,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11377,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11378,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11379,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11380,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11381,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11382,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11383,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11413,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11510,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11511,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11512,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11513,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11514,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11515,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11516,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11517,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11518,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11519,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11520,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11550,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11647,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11648,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11649,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11650,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11651,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11652,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11653,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11654,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11655,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11656,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11657,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11687,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11784,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11785,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11786,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11787,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11788,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11789,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11790,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11791,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11792,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11793,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11794,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11824,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+11921,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+11922,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+11923,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+11924,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+11925,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+11926,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+11927,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+11928,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+11929,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+11930,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+11931,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+11961,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12058,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12059,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12060,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12061,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12062,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12063,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12064,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12065,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12066,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12067,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12068,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12098,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12195,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12196,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12197,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12198,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12199,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12200,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12201,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12202,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12203,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12204,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12205,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12235,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12332,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12333,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12334,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12335,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12336,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12337,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12338,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12339,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12340,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12341,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12342,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12372,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12469,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12470,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12471,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12472,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12473,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12474,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12475,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12476,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12477,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12478,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12479,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12509,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12606,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12607,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12608,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12609,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12610,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12611,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12612,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12613,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12614,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12615,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12616,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12646,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+12880,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+12881,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+12882,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+12883,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+12884,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+12885,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+12886,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+12887,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+12888,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+12889,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+12890,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+12920,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+13565,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+13566,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+13567,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+13568,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+13569,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+13570,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+13571,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+13572,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+13573,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+13574,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+13575,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+13605,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+13702,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+13703,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+13704,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+13705,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+13706,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+13707,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+13708,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+13709,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+13710,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+13711,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+13712,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+13742,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+15072,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+15073,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+15074,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+15075,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+15076,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+15077,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+15078,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+15079,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+15080,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+15081,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+15082,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+15112,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+15620,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+15621,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+15622,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+15623,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+15624,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+15625,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+15626,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+15627,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+15628,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+15629,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+15630,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+15660,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+18771,4,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+18772,4,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+18773,4,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+18774,4,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+18775,4,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+18776,4,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+18777,4,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+18778,4,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+18779,4,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+18780,4,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+18781,4,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+18811,4,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20004,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20005,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20006,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20007,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20008,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20009,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20010,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20011,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20012,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20013,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20014,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20044,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20141,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20142,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20143,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20144,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20145,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20146,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20147,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20148,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20149,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20150,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20151,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20181,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20278,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20279,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20280,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20281,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20282,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20283,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20284,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20285,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20286,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20287,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20288,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20318,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20415,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20416,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20417,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20418,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20419,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20420,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20421,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20422,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20423,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20424,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20425,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20455,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20552,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20553,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20554,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20555,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20556,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20557,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20558,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20559,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20560,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20561,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20562,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20592,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20689,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20690,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20691,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20692,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20693,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20694,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20695,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20696,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20697,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20698,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20699,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20729,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20826,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20827,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20828,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20829,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20830,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20831,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20832,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20833,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20834,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20835,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20836,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+20866,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+20963,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+20964,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+20965,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+20966,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+20967,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+20968,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+20969,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+20970,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+20971,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+20972,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+20973,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+21003,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+21100,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+21101,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+21102,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+21103,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+21104,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+21105,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+21106,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+21107,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+21108,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+21109,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+21110,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+21140,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+21237,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+21238,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+21239,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+21240,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+21241,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+21242,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+21243,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+21244,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+21245,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+21246,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+21247,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+21277,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+21374,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+21375,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+21376,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+21377,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+21378,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+21379,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+21380,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+21381,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+21382,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+21383,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+21384,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+21414,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+21648,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+21649,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+21650,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+21651,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+21652,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+21653,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+21654,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+21655,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+21656,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+21657,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+21658,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+21688,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+22333,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+22334,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+22335,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+22336,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+22337,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+22338,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+22339,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+22340,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+22341,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+22342,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+22343,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+22373,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+22470,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+22471,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+22472,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+22473,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+22474,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+22475,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+22476,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+22477,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+22478,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+22479,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+22480,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+22510,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+23840,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+23841,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+23842,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+23843,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+23844,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+23845,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+23846,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+23847,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+23848,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+23849,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+23850,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+23880,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+24388,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+24389,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+24390,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+24391,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+24392,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+24393,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+24394,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+24395,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+24396,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+24397,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+24398,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+24428,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+27539,0,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+27540,0,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+27541,0,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+27542,0,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+27543,0,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+27544,0,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+27545,0,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+27546,0,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+27547,0,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+27548,0,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+27549,0,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+27579,0,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+28772,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+28773,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+28774,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+28775,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+28776,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+28777,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+28778,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+28779,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+28780,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+28781,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+28782,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+28812,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+28909,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+28910,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+28911,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+28912,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+28913,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+28914,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+28915,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+28916,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+28917,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+28918,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+28919,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+28949,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29046,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29047,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29048,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29049,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29050,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29051,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29052,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29053,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29054,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29055,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29056,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29086,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29183,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29184,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29185,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29186,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29187,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29188,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29189,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29190,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29191,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29192,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29193,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29223,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29320,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29321,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29322,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29323,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29324,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29325,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29326,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29327,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29328,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29329,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29330,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29360,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29457,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29458,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29459,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29460,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29461,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29462,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29463,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29464,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29465,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29466,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29467,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29497,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29594,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29595,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29596,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29597,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29598,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29599,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29600,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29601,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29602,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29603,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29604,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29634,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29731,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29732,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29733,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29734,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29735,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29736,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29737,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29738,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29739,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29740,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29741,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29771,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+29868,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+29869,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+29870,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+29871,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+29872,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+29873,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+29874,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+29875,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+29876,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+29877,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+29878,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+29908,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+30005,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+30006,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+30007,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+30008,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+30009,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+30010,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+30011,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+30012,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+30013,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+30014,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+30015,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+30045,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+30142,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+30143,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+30144,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+30145,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+30146,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+30147,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+30148,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+30149,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+30150,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+30151,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+30152,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+30182,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+30416,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+30417,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+30418,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+30419,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+30420,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+30421,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+30422,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+30423,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+30424,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+30425,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+30426,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+30456,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+31101,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+31102,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+31103,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+31104,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+31105,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+31106,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+31107,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+31108,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+31109,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+31110,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+31111,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+31141,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+31238,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+31239,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+31240,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+31241,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+31242,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+31243,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+31244,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+31245,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+31246,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+31247,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+31248,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+31278,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+32608,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+32609,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+32610,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+32611,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+32612,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+32613,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+32614,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+32615,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+32616,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+32617,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+32618,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+32648,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+33156,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+33157,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+33158,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+33159,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+33160,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+33161,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+33162,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+33163,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+33164,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+33165,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+33166,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+33196,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+36307,2,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+36308,2,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+36309,2,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+36310,2,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+36311,2,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+36312,2,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+36313,2,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+36314,2,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+36315,2,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+36316,2,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+36317,2,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+36347,2,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+37540,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+37541,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+37542,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+37543,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+37544,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+37545,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+37546,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+37547,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+37548,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+37549,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+37550,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+37580,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+37677,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+37678,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+37679,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+37680,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+37681,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+37682,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+37683,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+37684,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+37685,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+37686,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+37687,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+37717,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+37814,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+37815,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+37816,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+37817,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+37818,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+37819,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+37820,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+37821,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+37822,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+37823,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+37824,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+37854,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+37951,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+37952,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+37953,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+37954,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+37955,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+37956,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+37957,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+37958,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+37959,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+37960,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+37961,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+37991,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38088,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38089,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38090,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38091,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38092,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38093,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38094,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38095,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38096,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38097,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38098,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38128,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38225,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38226,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38227,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38228,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38229,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38230,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38231,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38232,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38233,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38234,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38235,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38265,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38362,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38363,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38364,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38365,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38366,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38367,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38368,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38369,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38370,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38371,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38372,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38402,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38499,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38500,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38501,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38502,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38503,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38504,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38505,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38506,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38507,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38508,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38509,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38539,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38636,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38637,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38638,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38639,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38640,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38641,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38642,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38643,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38644,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38645,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38646,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38676,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38773,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38774,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38775,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38776,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38777,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38778,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38779,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38780,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38781,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38782,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38783,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38813,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+38910,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+38911,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+38912,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+38913,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+38914,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+38915,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+38916,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+38917,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+38918,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+38919,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+38920,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+38950,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+39184,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+39185,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+39186,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+39187,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+39188,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+39189,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+39190,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+39191,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+39192,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+39193,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+39194,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+39224,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+39869,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+39870,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+39871,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+39872,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+39873,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+39874,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+39875,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+39876,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+39877,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+39878,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+39879,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+39909,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+40006,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+40007,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+40008,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+40009,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+40010,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+40011,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+40012,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+40013,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+40014,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+40015,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+40016,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+40046,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+41376,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+41377,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+41378,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+41379,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+41380,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+41381,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+41382,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+41383,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+41384,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+41385,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+41386,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+41416,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+41924,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+41925,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+41926,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+41927,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+41928,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+41929,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+41930,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+41931,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+41932,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+41933,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+41934,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+41964,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+45075,5,M5A3C4,4.0,Europe,Moderately, Trinity Street,2,5,33,18
+45076,5,M5A3C4,3.5,American,Expensive, Tank House Lane,0,1,32,18
+45077,5,M5A3C4,3.5,Europe,Expensive, Tank House Lane,0,5,32,18
+45078,5,M5A3C4,3.0,FastFood,Expensive, Tank House Lane,0,7,32,18
+45079,5,M5A3C4,3.0,Bars,Moderately, Tank House Lane,2,3,32,18
+45080,5,M5A3C4,3.5,Asian,Moderately, Gristmill Lane,2,2,19,18
+45081,5,M5A3C4,3.5,FastFood,Moderately, Gristmill Lane,2,7,19,18
+45082,5,M5A3C4,3.0,Europe,Moderately, Trinity Street,2,5,33,18
+45083,5,M5A3C4,4.5,Cafe,Moderately, Gristmill Lane,2,4,19,18
+45084,5,M5A3C4,4.5,Cafe,Expensive, Tank House Lane,0,4,32,18
+45085,5,M5A3C4,4.0,FastFood,Inexpensive, Trinity Street,1,7,33,18
+45115,5,M5A3C4,4.0,Cafe,Moderately, Trinity Street,2,4,33,18
+46316,22,M6K1M2,4.0,Asian,Moderately, Queen Street W,2,2,26,36
+46317,22,M6K1M2,4.0,American,Inexpensive, Queen Street W,1,1,26,36
+46336,22,M6K1M2,4.0,Asian,Moderately, Queen Street W,2,2,26,36
+46337,22,M6K1M2,4.0,American,Inexpensive, Queen Street W,1,1,26,36
+46512,15,M6K3C5,4.0,Europe,Moderately, King Street W,2,5,21,38
+46513,15,M6K3C5,4.5,Cafe,Inexpensive, King Street W,1,4,21,38
+46525,15,M6K3C5,4.0,Europe,Moderately, King Street W,2,5,21,38
+46526,15,M6K3C5,4.5,Cafe,Inexpensive, King Street W,1,4,21,38
+46616,3,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46622,3,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46625,3,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46637,0,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46643,0,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46646,0,M5R1V7,4.0,Cafe,Moderately, Dupont Street,2,4,13,22
+46768,18,M6J1G6,4.0,Europe,Expensive, Queen Street West,0,5,27,32
+46770,18,M6J1G6,4.0,Fancy,Expensive, Queen Street West,0,6,27,32
+46778,19,M6J1G6,4.0,Europe,Expensive, Queen Street West,0,5,27,32
+46780,19,M6J1G6,4.0,Fancy,Expensive, Queen Street West,0,6,27,32
+47088,11,M4M1J3,4.0,FastFood,Moderately, Broadview Avenue,2,7,5,10
+47091,11,M4M1J3,4.0,Asian,Moderately, Queen Street E,2,2,25,10
+47093,11,M4M1J3,3.0,American,Moderately, Queen Street E,2,1,25,10
+47094,11,M4M1J3,3.5,Bars,Moderately, Queen Street E,2,3,25,10
+47140,11,M4M1J3,4.0,FastFood,Moderately, Broadview Avenue,2,7,5,10
+47143,11,M4M1J3,4.0,Asian,Moderately, Queen Street E,2,2,25,10
+47145,11,M4M1J3,3.0,American,Moderately, Queen Street E,2,1,25,10
+47146,11,M4M1J3,3.5,Bars,Moderately, Queen Street E,2,3,25,10
+47166,11,M4M1J3,4.0,FastFood,Moderately, Broadview Avenue,2,7,5,10
+47169,11,M4M1J3,4.0,Asian,Moderately, Queen Street E,2,2,25,10
+47171,11,M4M1J3,3.0,American,Moderately, Queen Street E,2,1,25,10
+47172,11,M4M1J3,3.5,Bars,Moderately, Queen Street E,2,3,25,10
+47192,11,M4M1J3,4.0,FastFood,Moderately, Broadview Avenue,2,7,5,10
+47195,11,M4M1J3,4.0,Asian,Moderately, Queen Street E,2,2,25,10
+47197,11,M4M1J3,3.0,American,Moderately, Queen Street E,2,1,25,10
+47198,11,M4M1J3,3.5,Bars,Moderately, Queen Street E,2,3,25,10
+47362,3,M6G1M4,4.0,FastFood,Moderately, Bloor Street W,2,7,4,30
+47369,3,M6G1M4,4.0,FastFood,Moderately, Bloor Street W,2,7,4,30
+47409,9,M4C1L7,4.0,American,Inexpensive, Danforth avenue,1,1,9,3
+47410,9,M4C1L7,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,3
+47411,9,M4C1L7,4.5,Europe,Moderately, Danforth Avenue,2,5,8,3
+47412,9,M4C1L7,4.0,FastFood,Moderately, Danforth Ave,2,7,7,3
+47452,9,M4C1L7,4.0,American,Inexpensive, Danforth avenue,1,1,9,3
+47453,9,M4C1L7,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,3
+47454,9,M4C1L7,4.5,Europe,Moderately, Danforth Avenue,2,5,8,3
+47455,9,M4C1L7,4.0,FastFood,Moderately, Danforth Ave,2,7,7,3
+47495,9,M4C1L7,4.0,American,Inexpensive, Danforth avenue,1,1,9,3
+47496,9,M4C1L7,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,3
+47497,9,M4C1L7,4.5,Europe,Moderately, Danforth Avenue,2,5,8,3
+47498,9,M4C1L7,4.0,FastFood,Moderately, Danforth Ave,2,7,7,3
+47538,9,M4C1L7,4.0,American,Inexpensive, Danforth avenue,1,1,9,3
+47539,9,M4C1L7,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,3
+47540,9,M4C1L7,4.5,Europe,Moderately, Danforth Avenue,2,5,8,3
+47541,9,M4C1L7,4.0,FastFood,Moderately, Danforth Ave,2,7,7,3
+47581,9,M4C1L7,4.0,American,Inexpensive, Danforth avenue,1,1,9,3
+47582,9,M4C1L7,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,3
+47583,9,M4C1L7,4.5,Europe,Moderately, Danforth Avenue,2,5,8,3
+47584,9,M4C1L7,4.0,FastFood,Moderately, Danforth Ave,2,7,7,3
+47624,2,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47627,2,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47630,2,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47633,2,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47636,2,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47642,11,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47645,11,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47648,11,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47651,11,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47654,11,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47660,8,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47663,8,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47666,8,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47669,8,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47672,8,M4C1J4,4.0,Bars,Inexpensive, Danforth Avenue,1,3,8,2
+47872,12,M4J1L1,4.5,FastFood,Inexpensive, Danforth Ave,1,7,7,6
+47875,12,M4J1L1,4.5,FastFood,Inexpensive, Danforth Ave,1,7,7,6
+47884,2,M4J1L1,4.5,FastFood,Inexpensive, Danforth Ave,1,7,7,6
+47887,2,M4J1L1,4.5,FastFood,Inexpensive, Danforth Ave,1,7,7,6
+47896,2,M4K1R1,4.5,American,Moderately, Danforth Avenue,2,1,8,9
+47905,2,M4K1R1,3.5,Europe,Moderately, Danforth Ave,2,5,7,9
+47908,2,M4K1R1,3.0,Asian,Moderately, Danforth Avenue,2,2,8,9
+47918,2,M4K1R1,4.5,American,Moderately, Danforth Avenue,2,1,8,9
+47927,2,M4K1R1,3.5,Europe,Moderately, Danforth Ave,2,5,7,9
+47930,2,M4K1R1,3.0,Asian,Moderately, Danforth Avenue,2,2,8,9
+47940,2,M4K1R1,4.5,American,Moderately, Danforth Avenue,2,1,8,9
+47949,2,M4K1R1,3.5,Europe,Moderately, Danforth Ave,2,5,7,9
+47952,2,M4K1R1,3.0,Asian,Moderately, Danforth Avenue,2,2,8,9
+48050,7,M6G1L3,4.0,Asian,Moderately, Bloor Street W,2,2,4,29
+48065,7,M6G1L3,4.0,Asian,Moderately, Bloor Street W,2,2,4,29
+48080,7,M6G1L3,4.0,Asian,Moderately, Bloor Street W,2,2,4,29
+48095,7,M6G1L3,4.0,Asian,Moderately, Bloor Street W,2,2,4,29
+48254,5,M6J1V9,4.5,FastFood,Moderately, Dundas Street West,2,7,12,34
+48255,5,M6J1V9,4.0,Bars,Moderately, Dundas Street W,2,3,11,34
+48258,5,M6J1V9,4.5,FastFood,Moderately, Dundas Street West,2,7,12,34
+48259,5,M6J1V9,4.0,Bars,Moderately, Dundas Street W,2,3,11,34
+48274,0,M4S3C4,3.5,Asian,Moderately, Yonge Street,2,2,36,16
+48276,0,M4S3C4,3.5,Asian,Moderately, Yonge Street,2,2,36,16
+48278,0,M4S3C4,3.5,Asian,Moderately, Yonge Street,2,2,36,16
+48282,0,M4S3C4,3.5,Asian,Moderately, Yonge Street,2,2,36,16
+48293,17,M4M1Y2,3.5,Asian,Inexpensive, Gerrard Street E,1,2,18,12
+48295,17,M4M1Y2,4.0,FastFood,Moderately, Gerrard Street E,2,7,18,12
+48296,17,M4M1Y2,4.0,Cafe,Inexpensive, Gerrard Street E,1,4,18,12
+48298,17,M4M1Y2,3.5,Asian,Inexpensive, Gerrard Street E,1,2,18,12
+48300,17,M4M1Y2,4.0,FastFood,Moderately, Gerrard Street E,2,7,18,12
+48301,17,M4M1Y2,4.0,Cafe,Inexpensive, Gerrard Street E,1,4,18,12
+48313,4,M6R2M9,3.5,American,Moderately, Roncesvalles Avenue,2,1,28,40
+48317,4,M6R2M9,3.5,Bars,Moderately, Roncesvalles Avenue,2,3,28,40
+48324,4,M6R2M9,3.5,American,Moderately, Roncesvalles Avenue,2,1,28,40
+48328,4,M6R2M9,3.5,Bars,Moderately, Roncesvalles Avenue,2,3,28,40
+48379,4,M6R2M9,3.5,American,Moderately, Roncesvalles Avenue,2,1,28,40
+48383,4,M6R2M9,3.5,Bars,Moderately, Roncesvalles Avenue,2,3,28,40
+48484,3,M4K1P8,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,8
+48488,3,M4K1P8,4.0,Europe,Moderately, Danforth Avenue,2,5,8,8
+48526,3,M4K1P8,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,8
+48530,3,M4K1P8,4.0,Europe,Moderately, Danforth Avenue,2,5,8,8
+48631,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48636,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48637,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48649,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48654,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48655,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48667,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48672,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48673,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48685,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48690,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48691,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48703,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48708,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48709,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48721,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48726,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48727,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48739,10,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48744,10,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48745,10,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48757,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48762,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48763,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48775,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48780,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48781,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48793,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48798,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48799,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48811,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48816,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48817,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48829,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48834,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48835,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48847,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48852,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48853,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48865,3,M4C1M1,3.5,Asian,Moderately, Danforth Avenue,2,2,8,4
+48870,3,M4C1M1,4.0,American,Inexpensive, Danforth Avenue,1,1,8,4
+48871,3,M4C1M1,4.5,FastFood,Inexpensive, Danforth Avenue,1,7,8,4
+48883,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48886,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48891,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48894,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48899,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48902,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48915,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48918,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48923,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48926,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48947,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48950,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48963,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48966,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48971,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48974,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+48987,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+48990,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49027,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49030,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49043,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49046,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49107,8,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49110,8,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49115,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49118,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49123,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49126,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49131,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49134,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49147,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49150,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49155,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49158,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49179,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49182,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49195,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49198,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49203,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49206,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49219,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49222,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49259,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49262,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49275,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49278,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49339,13,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49342,13,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49347,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49350,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49355,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49358,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49363,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49366,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49379,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49382,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49387,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49390,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49411,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49414,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49427,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49430,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49435,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49438,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49451,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49454,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49491,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49494,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49507,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49510,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49571,6,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49574,6,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49579,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49582,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49587,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49590,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49595,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49598,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49611,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49614,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49619,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49622,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49643,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49646,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49659,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49662,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49667,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49670,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49683,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49686,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49723,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49726,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49739,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49742,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49803,19,M6K3C3,4.0,Fancy,Expensive, Dufferin Street,0,6,10,37
+49806,19,M6K3C3,3.5,FastFood,Moderately, Prince Edward Island Crescent,2,7,24,37
+49811,9,M6E1B5,3.5,FastFood,Inexpensive, St. Clair Avenue W,1,7,31,28
+49813,9,M6E1B5,3.5,FastFood,Inexpensive, St. Clair Avenue W,1,7,31,28
+49814,9,M6E1B5,3.5,FastFood,Inexpensive, St. Clair Avenue W,1,7,31,28
+49815,9,M6E1B5,3.5,FastFood,Inexpensive, St. Clair Avenue W,1,7,31,28
+49865,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+49867,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+49869,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+49871,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+49873,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+49875,7,M5A1A4,2.5,Fancy,Expensive, Polson Street,0,6,23,17
+50393,1,M5P2W3,4.5,Cafe,Inexpensive, Spadina Road,1,4,30,21
+50394,1,M5P2W3,2.0,Asian,Moderately, Spadina Road,2,2,30,21
+50395,1,M5P2W3,2.5,FastFood,Inexpensive, Spadina Road,1,7,30,21
+50399,1,M5P2W3,4.5,Cafe,Inexpensive, Spadina Road,1,4,30,21
+50400,1,M5P2W3,2.0,Asian,Moderately, Spadina Road,2,2,30,21
+50401,1,M5P2W3,2.5,FastFood,Inexpensive, Spadina Road,1,7,30,21
+50402,1,M5P2W3,4.5,Cafe,Inexpensive, Spadina Road,1,4,30,21
+50403,1,M5P2W3,2.0,Asian,Moderately, Spadina Road,2,2,30,21
+50404,1,M5P2W3,2.5,FastFood,Inexpensive, Spadina Road,1,7,30,21
+50666,12,M5T1L1,4.0,Asian,Moderately, Baldwin Street,2,2,0,25
+50667,12,M5T1L1,4.0,Asian,Moderately, Baldwin Street,2,2,0,25
+50668,12,M5T1L1,4.0,Cafe,Moderately, Baldwin Street,2,4,0,25
+50676,12,M5T1L1,3.5,Asian,Moderately, Baldwin Street,2,2,0,25
+50677,12,M5T1L1,3.5,Cafe,Moderately, Baldwin Street,2,4,0,25
+50678,12,M5T1L1,3.5,Europe,Moderately, Baldwin Street,2,5,0,25
+50706,12,M5T1L1,4.0,Cafe,Inexpensive, Baldwin Street,1,4,0,25
+50846,8,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50848,8,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50853,8,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50855,8,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50860,8,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50862,8,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50874,4,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50876,4,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50881,4,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50883,4,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50888,4,M8Y2R3,4.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50890,4,M8Y2R3,3.5,FastFood,Moderately, Royal York Road,2,7,29,42
+50902,10,M9N1W2,5.0,FastFood,Moderately, Weston Road,2,7,35,43
+50903,10,M9N1W2,4.5,Europe,Moderately, Weston Road,2,5,35,43
+50904,10,M9N1W2,5.0,FastFood,Moderately, Weston Road,2,7,35,43
+50905,10,M9N1W2,4.5,Europe,Moderately, Weston Road,2,5,35,43
+50915,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50916,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50919,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50920,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50921,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50924,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50925,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50926,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50929,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50930,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50931,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50934,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50935,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50936,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50939,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50940,11,M3J3K2,3.0,American,Moderately, Finch Avenue W,2,1,15,1
+50941,11,M3J3K2,4.0,Asian,Inexpensive, Finch Avenue W,1,2,15,1
+50944,11,M3J3K2,4.0,MiddleEast,Moderately, Finch Avenue W,2,8,15,1
+50948,0,M4N2M8,4.0,Asian,Moderately, Yonge Street,2,2,36,14
+50949,0,M4N2M8,4.0,FastFood,Moderately, Yonge Street,2,7,36,14
+50955,0,M4N2M8,4.0,Asian,Moderately, Yonge Street,2,2,36,14
+50956,0,M4N2M8,4.0,FastFood,Moderately, Yonge Street,2,7,36,14
+50976,0,M5N1A2,4.0,FastFood,Moderately, Eglinton Avenue W,2,7,14,20
+50980,0,M5N1A2,4.0,FastFood,Moderately, Eglinton Avenue W,2,7,14,20
+50982,0,M5N1A2,4.0,FastFood,Moderately, Eglinton Avenue W,2,7,14,20
+50984,0,M5N1A2,4.0,FastFood,Moderately, Eglinton Avenue W,2,7,14,20
+50988,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+50989,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+50990,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+50993,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+50994,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+50995,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51002,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51003,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51004,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+51005,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51006,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51009,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+51010,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51011,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51018,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51019,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51020,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+51021,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51022,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51025,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+51026,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51027,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51034,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51035,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51036,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+51037,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51038,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51041,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+51042,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51043,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51050,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51051,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51052,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+51053,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51054,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51057,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+51058,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51059,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51066,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51067,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51068,4,M4G3B7,4.0,MiddleEast,Expensive, Bayview Avenue,0,8,2,5
+51069,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51070,4,M4G3B7,4.5,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51073,4,M4G3B7,4.0,Asian,Moderately, Bayview Avenue,2,2,2,5
+51074,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51075,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51082,4,M4G3B7,4.0,FastFood,Moderately, Bayview Avenue,2,7,2,5
+51083,4,M4G3B7,3.5,FastFood,Moderately, Bayview Ave,2,7,1,5
+51166,9,M6R1A8,4.0,Asian,Moderately, Queen Street W,2,2,26,39
+51176,9,M6R1A8,4.0,Bars,Moderately, Queen Street W,2,3,26,39
+51177,9,M6R1A8,4.0,Asian,Moderately, Queen Street W,2,2,26,39
+51187,9,M6R1A8,4.0,Bars,Moderately, Queen Street W,2,3,26,39
+51188,9,M6R1A8,4.0,Asian,Moderately, Queen Street W,2,2,26,39
+51198,9,M6R1A8,4.0,Bars,Moderately, Queen Street W,2,3,26,39
+51276,13,M4M1L5,4.5,FastFood,Moderately, Queen Street E,2,7,25,11
+51277,13,M4M1L5,4.5,Bars,Moderately, Queen Street E,2,3,25,11
+51280,13,M4M1L5,4.0,Asian,Moderately, Queen Street E,2,2,25,11
+51310,13,M4M1L5,4.5,FastFood,Moderately, Queen Street E,2,7,25,11
+51311,13,M4M1L5,4.5,Bars,Moderately, Queen Street E,2,3,25,11
+51314,13,M4M1L5,4.0,Asian,Moderately, Queen Street E,2,2,25,11
+51412,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51414,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51419,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51421,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51426,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51428,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51454,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51456,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51461,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51463,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51475,7,M4J1L9,4.0,FastFood,Moderately, Danforth Avenue,2,7,8,7
+51477,7,M4J1L9,4.0,Bars,Moderately, Danforth Avenue,2,3,8,7
+51510,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51512,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51515,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51517,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51525,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51527,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51530,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51532,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51535,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51537,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51540,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51542,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51545,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51547,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51550,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51552,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51555,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51557,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51565,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51567,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51570,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51572,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51575,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51577,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51580,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51582,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51590,3,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51592,3,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51605,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51607,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51610,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51612,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51620,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51622,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51625,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51627,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51630,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51632,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51635,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51637,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51640,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51642,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51645,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51647,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51650,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51652,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51660,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51662,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51665,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51667,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51670,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51672,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51675,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51677,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51685,0,M4N3M5,4.5,FastFood,Inexpensive, Bayview Avenue,1,7,2,15
+51687,0,M4N3M5,3.5,Cafe,Expensive,EG  -  Bayview Avenue,0,4,38,15
+51700,1,M4N2L2,3.5,American,Moderately, Yonge Street,2,1,36,13
+51701,1,M4N2L2,4.0,Cafe,Inexpensive, Yonge Street,1,4,36,13
+51708,1,M4N2L2,3.5,American,Moderately, Yonge Street,2,1,36,13
+51709,1,M4N2L2,4.0,Cafe,Inexpensive, Yonge Street,1,4,36,13
+51913,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51914,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51915,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51916,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51918,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51919,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51920,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51921,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51923,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51924,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51925,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51926,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51928,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51929,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51930,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51931,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51933,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51934,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51935,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51936,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51938,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51939,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51940,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51941,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51943,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51944,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51945,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51946,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51948,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51949,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51950,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51951,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51953,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51954,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51955,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51956,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51983,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51984,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51985,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51986,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51988,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51989,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51990,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51991,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51993,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51994,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+51995,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+51996,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+51998,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+51999,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+52000,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+52001,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+52003,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+52004,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+52005,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+52006,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+52008,4,M3J1P3,4.0,American,Inexpensive, Keele Street,1,1,20,0
+52009,4,M3J1P3,4.0,Cafe,Inexpensive, Keele Street,1,4,20,0
+52010,4,M3J1P3,2.5,FastFood,Moderately,York Student Centre,2,7,39,0
+52011,4,M3J1P3,3.0,FastFood,Moderately, Keele Street,2,7,20,0
+52023,12,M6R2N1,3.5,Cafe,Moderately, Roncesvalles Avenue,2,4,28,41
+52025,12,M6R2N1,4.0,FastFood,Moderately, Roncesvalles Avenue,2,7,28,41
+52026,12,M6R2N1,3.5,Cafe,Moderately, Roncesvalles Avenue,2,4,28,41
+52028,12,M6R2N1,4.0,FastFood,Moderately, Roncesvalles Avenue,2,7,28,41
+52029,12,M6R2N1,3.5,Cafe,Moderately, Roncesvalles Avenue,2,4,28,41
+52031,12,M6R2N1,4.0,FastFood,Moderately, Roncesvalles Avenue,2,7,28,41
+52038,12,M6R2N1,3.5,Cafe,Moderately, Roncesvalles Avenue,2,4,28,41
+52040,12,M6R2N1,4.0,FastFood,Moderately, Roncesvalles Avenue,2,7,28,41
+52044,12,M6R2N1,3.5,Cafe,Moderately, Roncesvalles Avenue,2,4,28,41
+52046,12,M6R2N1,4.0,FastFood,Moderately, Roncesvalles Avenue,2,7,28,41
+52047,12,M5S1X8,4.0,Asian,Moderately, Bloor Street W,2,2,4,24
+52050,12,M5S1X8,4.0,Cafe,Moderately, Bloor Street W,2,4,4,24
+52052,12,M5S1X8,4.0,Asian,Moderately, Bloor Street W,2,2,4,24
+52055,12,M5S1X8,4.0,Cafe,Moderately, Bloor Street W,2,4,4,24
+52061,14,M6J2Z4,4.0,American,Moderately, Ossington Avenue,2,1,22,35
+52062,14,M6J2Z4,4.0,Asian,Moderately, Ossington Avenue,2,2,22,35
+52065,14,M6J2Z4,4.0,American,Moderately, Ossington Avenue,2,1,22,35
+52066,14,M6J2Z4,4.0,Asian,Moderately, Ossington Avenue,2,2,22,35
